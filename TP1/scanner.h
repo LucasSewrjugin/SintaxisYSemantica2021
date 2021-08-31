@@ -1,4 +1,4 @@
-enum tokenType
+enum token
 {
     FDT,
     SEP,
